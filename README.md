@@ -1,4 +1,4 @@
-# Hi there, I'm [Dmitry Kaplan](https://t.me/dmitrykaplan) ![](C:\Users\dk475\Downloads\github.mp4) 
+# Hi there, I'm [Dmitry Kaplan](https://t.me/dmitrykaplan) ![](https://tenor.com/view/cat-funny-cat-pc-cat-reading-workaholics-gif-14796708) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+engineering+student+at+ITMO+University)](https://git.io/typing-svg)
 
 <!--
