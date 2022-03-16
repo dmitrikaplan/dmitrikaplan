@@ -1,5 +1,5 @@
 # Hi there, I'm [Dmitry Kaplan](https://t.me/dmitrykaplan) ![]() 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+engineering+student+at+ITMO+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+engineering+student+at+ITMO+University+)](https://git.io/typing-svg)
 
 <!--
 **dmitrykap1an/dmitrykap1an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
