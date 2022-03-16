@@ -1,4 +1,4 @@
-# Hi there, I'm [Dmitry Kaplan](https://t.me/dmitrykaplan) ![](https://github.com/dmitrykap1an/dmitrykap1an/blob/main/github.gif)
+# Hi there, I'm [Dmitry Kaplan](https://t.me/dmitrykaplan) ![]()
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+engineering+student+at+ITMO+University)](https://git.io/typing-svg)
 
 <!--
