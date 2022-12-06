@@ -1,5 +1,5 @@
 # Hi there, I'm [Dmitry Kaplan](https://t.me/dmitrykaplan) ![]()
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SE+student+at+ITMO+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=CSE+student+at+ITMO+University)](https://git.io/typing-svg)
 
 ## 💻 TECH STACK
 <div style="{float:left; width: 48px; height: 24px; }" >
