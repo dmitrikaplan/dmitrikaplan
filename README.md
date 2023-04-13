@@ -15,3 +15,5 @@
   ![Snake animation](https://github.com/dmitrykap1an/dmitrykap1an/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrykap1an&layout=compact)]
